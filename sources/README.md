@@ -4,5 +4,5 @@
 
 | 标题 | 作者 | 时间 | 类型 |
 |------|------|------|------|
-| [《敖山庙战役》](battles/ao-shan-battle-liu-xianyi.md) | 刘显宜 | 1949 | 战役回忆 |
+| [《敖山庙战役》](sources/ao-shan-battle.md) | 刘显宜 | 1949 | 战役回忆 |
 | [《耒阳战役》](battles/leiyang-battle-wu-yunfu.md) | 伍云甫 | 1949 | 战役回忆 |
